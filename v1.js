@@ -64,6 +64,8 @@ let game = function(n){
 }
 
 game(parseInt(prompt("to how many?", "5")));
+
+
 // for (let i = 0; i < 20; i++){
 //     let computer = computerPlay();
 //     let person = prompt("Rock, paper or scissors?");
